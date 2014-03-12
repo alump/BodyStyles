@@ -1,0 +1,7 @@
+.idea/
+bodystyles-addon/bodystyles-addon.iml
+bodystyles-addon/target/
+bodystyles-demo/bodystyles-demo.iml
+bodystyles-demo/target/
+bodystyles-demo/src/main/webapp/VAADIN/gwt-unitCache/
+bodystyles-demo/src/main/webapp/VAADIN/widgetsets/

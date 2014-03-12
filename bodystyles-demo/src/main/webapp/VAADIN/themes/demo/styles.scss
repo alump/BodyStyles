@@ -1,0 +1,7 @@
+@import "../reindeer/reindeer.scss";
+@include reindeer;
+
+.foobar .guide-label {
+    color: red;
+    font-family: monospace;
+}
