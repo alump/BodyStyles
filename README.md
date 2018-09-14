@@ -1,4 +1,7 @@
-BodyStyles Vaadin UI Extension Add On
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/bodystyles)
+[![Stars on vaadin.com/directory](https://img.shields.io/vaadin-directory/star/bodystyles.svg)](https://vaadin.com/directory/component/bodystyles)
+
+# BodyStyles Vaadin UI Extension Add On
 
 Server side API to modify body element style names
 
@@ -12,7 +15,7 @@ This project can be imported to Eclipse with m2e.
 Simple Maven tutorials:
 
 
-***** How to compile add on jar package for your project *****
+### How to compile add on jar package for your project
 
 > cd bodystyles-addon
 > mvn package
@@ -21,7 +24,7 @@ add on can be found at: picker-addon/target/BodyStyles-<version>.jar
 zip package used at Vaadin directory can be found at:
 picker-addon/target/BodyStyles-<version>.zip
 
-***** How to install BodyStyles to your Maven repository *****
+### How to install BodyStyles to your Maven repository 
 
 To install addon to your local repository, run:
 
@@ -29,7 +32,7 @@ To install addon to your local repository, run:
 > mvn install
 
 
-***** How to run test application *****
+### How to run test application 
 
 First compile and install addon (if not already installed)
 > cd bodystyles-addon
@@ -43,8 +46,7 @@ Then compile demo widgetset and start HTTP server
 Demo application is running at http://localhost:8080/bodystyles
 
 
-
-***** How to compile test application WAR *****
+### How to compile test application WAR 
 
 First compile and install addon (if not already installed)
 > cd bodystyles-addon
